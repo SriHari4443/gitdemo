@@ -2,21 +2,7 @@
 cat > index.html <<'HTML'
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Hi from Hari</title>
-  <style>
-    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; padding: 2rem; }
-    h1 { color: #0b62d6; }
-    p  { color: #333; }
-  </style>
-</head>
-<body>
-  <h1>Hello — I'm Hari 👋</h1>
-  <p>This is a si
-  <hr />
-  <p><small>Created for Git practice.</small></p>
+<
 </body>
 </html>
 HTML
