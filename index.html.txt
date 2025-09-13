@@ -14,7 +14,7 @@ cat > index.html <<'HTML'
 </head>
 <body>
   <h1>Hello — I'm Hari 👋</h1>
-  <p>This is a simple HTML file created inside the folder. Save, open it in your browser, and flex.</p>
+  <p>This is a si
   <hr />
   <p><small>Created for Git practice.</small></p>
 </body>
